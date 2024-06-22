@@ -1,4 +1,4 @@
-# Resume-Parser-using-Machine-Learning
+# Resume-Parser-using-Machine-Learning - MINOR PROJECT
 
 Environment : Python, Anaconda Prompt, Jupyter Notebook IDE
 
